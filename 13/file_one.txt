@@ -1,1 +1,6 @@
-First file!
+NO, First
+
+I added a conflict!
+I fixed it!
+
+ file!
